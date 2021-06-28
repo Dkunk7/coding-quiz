@@ -1,0 +1,42 @@
+.mainPage {
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.main-scores {
+    text-align: center;
+    margin-top: 100px;
+}
+#clear-scores {
+    margin-top: 10px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+body {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+p {
+    line-height: 1.5
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 153, 255)
+}
+.answers-list {
+   list-style-type: none;
+}
+.ccc {
+    text-align: center;
+    color: rgb(117, 172, 182);
+}
+
+
+/* .quiz-div {
+    margin-left: 100px;
+    margin-right: 100px;
+} */
